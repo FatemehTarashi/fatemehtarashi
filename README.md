@@ -50,11 +50,9 @@
 </tr>
 </table>
 
-**Community & Mind Sports:** 🐍 **PSF** Contributing Member &nbsp;/&nbsp; **TehPUG** Organizer &nbsp;/&nbsp; 🏆 **Women's National Champion (Rank #1)** in Othello (Iran, 2026) &nbsp;/&nbsp; 🎓 [Udacity Data Engineer](https://confirm.udacity.com/K6MC797R) (`K6MC797R`)
+**Community & Mind Sports:** 🐍 **PSF** Contributing Member &nbsp;/&nbsp; **TehPUG** Organizer &nbsp;/&nbsp; 🏆 **Women's National Champion (Rank #1)** in Othello (Iran, 2026) 
 
-**Curated Lists:** 📐 [**awesome-tda**](https://github.com/FatemehTarashi/awesome-tda) *(230+ ★)* &nbsp;·&nbsp; 📊 [**awesome-algebraic-statistics**](https://github.com/FatemehTarashi/awesome-algebraic-statistics) &nbsp;·&nbsp; 👗 [**awesome-fashion-tech**](https://github.com/FatemehTarashi/awesome-fashion-tech)
-
-**Core Stack:** `Python`, `Modern C++`, `Macaulay2`, `Bash`, `Linux Kernel`, `WireGuard`, `PyTorch`, `Apache Spark`, `Open3D`, `Docker`
+**Core Stack:** `Python`, `C++`, `Macaulay2`, `Bash`, `Linux Kernel`, `WireGuard`, `PyTorch`, `Apache Spark`, `Open3D`, `Docker`
 
 <div align="center">
 
