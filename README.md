@@ -1,6 +1,7 @@
 <div align="center">
 
-<b>Research Software Engineer & Applied Mathematician</b> &nbsp; <br>
+### Hi, I'm Fatemeh 👋🌸
+**Research Software Engineer & Applied Mathematician** &nbsp;&nbsp; <br>
 <sub><i>“At the intersection of pure geometry, scientific systems, and algorithmic design.”</i></sub>
 
 </div>
