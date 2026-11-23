@@ -1,15 +1,11 @@
 <div align="center">
 
 # Fatemeh Tarashi Kashani
-
-**Research Software Engineer & Applied Mathematician**  
-*M.Sc. in Pure Mathematics (Geometry)*
-
-<br>
-
+**Research Software Engineer & Applied Mathematician** &nbsp;·&nbsp; *M.Sc. Pure Mathematics (Geometry)*  
 *“At the intersection of pure geometry, scientific systems, and algorithmic design.”*
 
 </div>
+
 
 <br>
 
