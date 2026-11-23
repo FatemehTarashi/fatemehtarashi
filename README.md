@@ -1,6 +1,6 @@
 <div align="center">
 
-<b>Research Software Engineer & Applied Mathematician</b> &nbsp;·&nbsp; <br>
+<b>Research Software Engineer & Applied Mathematician</b> &nbsp; <br>
 <sub><i>“At the intersection of pure geometry, scientific systems, and algorithmic design.”</i></sub>
 
 </div>
