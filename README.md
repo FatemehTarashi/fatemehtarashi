@@ -7,7 +7,7 @@
 
 <br>
 
-> *"At the intersection of pure geometry, scientific systems, and algorithmic design."*
+*“At the intersection of pure geometry, scientific systems, and algorithmic design.”*
 
 </div>
 
@@ -44,6 +44,9 @@
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
