@@ -21,7 +21,7 @@
 
 <img src="https://img.shields.io/badge/02-3D_Vision-7c3aed?style=flat-square" alt="02 - 3D Vision" /> &nbsp;<b>3D Geometry & Spatial Systems</b>
 
-- **Point-Cloud Volumetry:** Dual-surface Delaunay pipeline; open prototype [`cloud-point`](https://github.com/FatemehTarashi/cloud-point).
+- **Point-Cloud Volumetry:** Dual-surface Delaunay pipeline reconstructing irregular terrain baselines.
 - **3D Transformers:** Adapted [`Mask3D`](https://github.com/JonasSchult/Mask3D) for multi-GB aerial scans (CUDA, Docker).
 - **Radar & Geostatistics:** Multi-track InSAR (`PyGMTSAR`), WLS, Ordinary Kriging & `GDAL`.
 
@@ -52,7 +52,7 @@
 </tr>
 </table>
 
-**Community & Mind Sports:**  **PSF** Contributing Member &nbsp;/&nbsp; **TehPUG** Organizer &nbsp;/&nbsp; 🏆 **Women's National Champion (Rank #1)** in Othello (Iran, 2026)
+**Community & Mind Sports:** **PSF** Contributing Member &nbsp;/&nbsp; **TehPUG** Organizer &nbsp;/&nbsp; 🏆 **Women's National Champion (Rank #1)** in Othello (Iran, 2026)
 
 **Core Stack:** `Python`, `C++ / CUDA`, `Macaulay2`, `Bash`, `Linux Networking`, `WireGuard`, `Docker`, `Open3D`, `PyTorch`, `GDAL`, `Apache Spark`
 
